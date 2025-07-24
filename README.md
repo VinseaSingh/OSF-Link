@@ -4,7 +4,7 @@
 ### "Prestimulus Periodic and Aperiodic Neural Activity Shapes McGurk Perception"
 Contributors: Vinsea A V Singh, Vinodh G. Kumar, Arpan Banerjee, Dipanjan Roy
 
-** Link to the OSF Project: https://osf.io/degzm/?view_only=8cc46c126b36445a8d37c3f6e0f07013
+** Link to the OSF Project: https://osf.io/degzm
 
 The repository contains the following elements:
 'chronux_2_12' - Chronux is a MATLAB-based toolbox for analyzing neural signals. Developed by Bokil H, et al., 2010 (https://doi.org/10.1016/j.jneumeth.2010.06.020). To know more about the toolbox, visit: http://chronux.org/
